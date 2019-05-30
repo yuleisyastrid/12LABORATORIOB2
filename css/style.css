@@ -1,0 +1,33 @@
+/*Write your style here*/
+body{
+   background : url(../images/banner.jpg);
+	right:150px;
+	color:#FFFFFF;
+
+}
+.b{
+
+	top:1%;
+	position:absolute;
+	width:200%;
+	height:150%;
+  
+}
+.n{
+	right:150px;
+	color:#FFFFFF;
+
+}
+.a{
+	top:1%;
+	left:15%;
+	position:absolute;
+	height:5%;
+	
+}
+
+img{
+   	
+	width:25%;
+	height:20px%;
+}
